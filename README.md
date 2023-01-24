@@ -20,9 +20,6 @@ Notebooks and tests about reinforcement learning.
 
 </details>
 
-</br>
-
-![Logo](docs/assets/logo_150.png)
 
 </br>
 
